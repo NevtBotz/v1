@@ -2537,7 +2537,7 @@ case 'info':
        ini_txt += `~${get_result.quote}`
        
        menu = `╭─❒ 「 Nevt Botz Info 」                           
-*📑NAMA BOT: KurrXd BOTZ*
+*📑NAMA BOT: *Nevt Botz*
 *📑VERSI BOT: 3.0*
 *📑LIB : BAILEYS*
 *📑TYPESCRIPT: NODE.JS*
@@ -2617,7 +2617,7 @@ case 'bego':
       case 'dakjal':
       case 'horny':
       case 'wibu':
-      case 'puki':
+      case 'pukpukii':
       case 'pantex':
       case 'pantek':
       
@@ -2629,7 +2629,7 @@ case 'bego':
 case 'catlog': 
   if (!isRegistered) return reply(`daftar dlu om ketik .verify`)
 
-                nama = ' ゑwelcome to kurrxd storeゑ '
+                nama = ' Nevt Botz Store '
        ownerJid = "6281220670449@s.whatsapp.net"
                 nomor = 1
                 stod = `${sender}`
@@ -2737,14 +2737,14 @@ MENYEBAB KAN OVERLOAD
 
 OVERLOAD= NO GARANSI
 *_List Harga Vps_*
-Ram 2 Cpu 1 Expire 1 Tahun = 54k
+Ram 2 Cp
 
-*GARANSI 3BULAN SETELAH PEMBAYARAN*
+*GARANSI
 
-KHUSUS VPS JANGAN PAKSA BUAT JASA RUN BOT
-INGET RAM2 BUKAN BUAT BANYAK BOT 1 AJA
-KALO TERJADI SESUATU YANG TIDAK MEMUNGKINKAN
-KAMI TIDAK BERTANGGUNG JAWAB
+KHUSUS V
+INGET RA
+KAL
+
 
 MINAT KETIK .owner
 `
