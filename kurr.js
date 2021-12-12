@@ -1456,7 +1456,7 @@ kurr.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mention
         ini_txt = `*${get_result.character} pernah berkata*\n\n`
        ini_txt += `~${get_result.quote}`
        
-       menu = `*❒ 「 KurrXd BOTZ MENU 」 ❒*
+       menu = `*❒ 「 NEVT BOTZ MENU 」 ❒*
 _え ${prefix}ownermenu_
 
 _え ${prefix}blmmenu_
@@ -2536,7 +2536,7 @@ case 'info':
         ini_txt = `*${get_result.character} pernah berkata*\n\n`
        ini_txt += `~${get_result.quote}`
        
-       menu = `╭─❒ 「 KurrXd BOTZ Info 」                           
+       menu = `╭─❒ 「 Nevt Botz Info 」                           
 *📑NAMA BOT: KurrXd BOTZ*
 *📑VERSI BOT: 3.0*
 *📑LIB : BAILEYS*
@@ -2557,8 +2557,8 @@ CALL BOT
 _VC BOT_
 If you violate, you will be blocked
 
-GITHUB OWNER:https://github.com/KurrXd
-YOUTUBE OWNER:https://youtube.com/c/KurrXd
+GITHUB OWNER:https://github.com/NevtBotz
+YOUTUBE OWNER:-_-
 `
 sendButLocation(from, `${menu}`, "*_© Nevt Ganz_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`ping`,buttonText:{displayText:'SPEED BOT'},type:1},{buttonId:`sewabot`,buttonText:{displayText:'SEWABOT'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
@@ -2641,7 +2641,17 @@ case 'catlog':
 *_List Harga Rdp_*
 RAM 2GB CPU 1 = 20K
 
+RAM 4GB CPU 2 = 40*KurrXd Melayani Jasa Pembuatan Vps/Rdp*
+*Jasa Run Bot/ Hosting Bot*
+*Dengan Harga Terjangkau*
+*_List Harga Rdp_*
+RAM 2GB CPU 1 = 20K
+
 RAM 4GB CPU 2 = 40K
+
+RAM 8GB CPU 4 = 80k
+GARANSI 2 MINGGU SETELAH PEMBAYARAN
+K
 
 RAM 8GB CPU 4 = 80k
 GARANSI 2 MINGGU SETELAH PEMBAYARAN
